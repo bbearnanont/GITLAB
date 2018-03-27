@@ -44,6 +44,11 @@ void main()
     printf("\nContinue (YES for Yes)? ");
     scanf("%s", answer);
   } while (strcmp(answer, "YES") == 0);
+<<<<<<< HEAD
   printf("Seeya\n");
   printf("Jojim");
+=======
+  printf("RIP\n");
+  printf("Jojim");
+>>>>>>> 937df4ccfd532ef71685856d8b5212eb84472f8b
 }
